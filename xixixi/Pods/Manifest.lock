@@ -1,0 +1,88 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CryptoSwift (1.3.1)
+  - ESPullToRefresh (2.9.2)
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.2):
+    - Flutter
+  - flutter_module (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - flutter_boost
+  - HandyJSON (5.0.2)
+  - Kingfisher (4.10.1)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - ReactiveCocoa (11.0.0):
+    - ReactiveSwift (~> 6.2)
+  - ReactiveSwift (6.3.0)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - ESPullToRefresh
+  - Flutter (from `../../../Desktop/MyChevy/flutter_module/.ios/Flutter/engine`)
+  - flutter_boost (from `../../../Desktop/MyChevy/flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - flutter_module (from `../../../Desktop/MyChevy/flutter_module/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../../../Desktop/MyChevy/flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - HandyJSON
+  - Kingfisher
+  - Moya
+  - ReactiveCocoa
+  - SnapKit
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CryptoSwift
+    - ESPullToRefresh
+    - HandyJSON
+    - Kingfisher
+    - Moya
+    - ReactiveCocoa
+    - ReactiveSwift
+    - Result
+    - SnapKit
+    - SwiftyJSON
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../../../Desktop/MyChevy/flutter_module/.ios/Flutter/engine"
+  flutter_boost:
+    :path: "../../../Desktop/MyChevy/flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios"
+  flutter_module:
+    :path: "../../../Desktop/MyChevy/flutter_module/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../../../Desktop/MyChevy/flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CryptoSwift: f12f037f6d0fcd6d48c96db0071b653de64e6c4d
+  ESPullToRefresh: efed00d52597065e9a84e1e52fa444fdb1a1dee0
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_boost: a7cfa776b75329d5e7d101d0cd33e75042bcde69
+  flutter_module: d1e1ff44505640bd9aa37f23f63380c646272be4
+  FlutterPluginRegistrant: 03a06fa5f754c611bb6c96f42acf9432e8c4515d
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  ReactiveCocoa: 189fcea9c5af7e394dd8a4cfc1c6f77af9ff3598
+  ReactiveSwift: 7937f26ec18d555e2a99352bd0a8b2817d1f042d
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: b2f2ca8e63321510030542c0c1d199b95c703e6a
+
+COCOAPODS: 1.9.3

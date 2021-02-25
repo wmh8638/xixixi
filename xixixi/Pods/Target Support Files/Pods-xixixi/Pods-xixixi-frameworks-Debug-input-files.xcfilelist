@@ -1,0 +1,16 @@
+${PODS_ROOT}/Target Support Files/Pods-xixixi/Pods-xixixi-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
+${BUILT_PRODUCTS_DIR}/ESPullToRefresh/ESPullToRefresh.framework
+${PODS_ROOT}/../../../../Desktop/MyChevy/flutter_module/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/HandyJSON/HandyJSON.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ReactiveCocoa/ReactiveCocoa.framework
+${BUILT_PRODUCTS_DIR}/ReactiveSwift/ReactiveSwift.framework
+${BUILT_PRODUCTS_DIR}/Result/Result.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework
+${BUILT_PRODUCTS_DIR}/flutter_boost/flutter_boost.framework
+${PODS_ROOT}/../../../../Desktop/MyChevy/flutter_module/.ios/Flutter/App.framework
